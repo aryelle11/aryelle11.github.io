@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(111, 228, 164);
+    padding: 3%;
+  }
+  
+  h1 {
+    font-family:Arial, Helvetica, sans-serif ;
+  }
+  .Descrição {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 36%;
+    right: 8%;
+  }
+  em {
+    color: rgb(67, 138, 83);
+  }
+  .Empatia {
+    font-size: 20px;
+  }
+  .Comprometimento {
+    font-size: 20px;
+  }
+  .Colaboração {
+    font-size: 20px;
+  }
+  .JavaScript {
+    font-size: 20px;
+  }
+  .React {
+    font-size: 20px;
+  }
+  .TrypeScripit {
+    font-size: 20px;
+  }
+  #minha-foto {
+    float: left;
+    height: 230px;
+    padding: 10px;
+    background-color: black;
+  }
+  .image-container {
+    height: 250px;
+    position: relative;
+  }
+  .meuNome {
+    text-align: center;
+  }
+  ul li {
+    background-color: beige;
+  }
